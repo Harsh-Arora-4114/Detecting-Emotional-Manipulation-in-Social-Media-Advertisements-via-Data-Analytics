@@ -1,12 +1,12 @@
 # Detecting-Emotional-Manipulation-in-Social-Media-Advertisements-via-Data-Analytics
 
-## 📘 Overview
+## Overview
 
 This project aims to detect **emotional manipulation** in **social media advertisements** using **data analytics and machine learning techniques**. With the rapid growth of digital marketing, advertisers often use emotional cues to influence users’ decisions. This project analyzes text-based ad content to classify and identify emotionally manipulative patterns, promoting ethical and transparent advertising practices.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Identify and quantify emotional manipulation in advertisements.
 * Apply **data analytics, NLP, and machine learning** to detect persuasive emotional tones.
@@ -15,7 +15,7 @@ This project aims to detect **emotional manipulation** in **social media adverti
 
 ---
 
-## 🧩 Key Features
+## Key Features
 
 * **Data Preprocessing:** Cleans and structures social media ad datasets.
 * **Text Analytics:** Tokenization, lemmatization, and sentiment analysis.
@@ -26,7 +26,7 @@ This project aims to detect **emotional manipulation** in **social media adverti
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 
 | Category             | Tools / Libraries     |
 | -------------------- | --------------------- |
@@ -39,7 +39,7 @@ This project aims to detect **emotional manipulation** in **social media adverti
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The dataset consists of **social media advertisements** labeled according to their emotional tone (e.g., fear, happiness, guilt, excitement).
 Each entry contains:
@@ -52,7 +52,7 @@ Each entry contains:
 
 ---
 
-## 🚀 Project Workflow
+## Project Workflow
 
 1. **Data Collection & Preprocessing**
 
@@ -75,7 +75,7 @@ Each entry contains:
 
 ---
 
-## 📈 Sample Results
+## Sample Results
 
 * Accuracy achieved: **~85% (varies by model and dataset)**
 * Emotional categories identified: *Fear, Guilt, Happiness, Sadness, Anger*
@@ -83,7 +83,7 @@ Each entry contains:
 
 ---
 
-## ⚖️ Ethical Considerations
+## Ethical Considerations
 
 This project emphasizes **AI ethics in marketing analytics** by:
 
@@ -93,7 +93,7 @@ This project emphasizes **AI ethics in marketing analytics** by:
 
 ---
 
-## 🧪 How to Run
+## How to Run
 
 1. Clone this repository:
 
@@ -115,7 +115,7 @@ This project emphasizes **AI ethics in marketing analytics** by:
 
 ---
 
-## 📬 Future Scope
+## Future Scope
 
 * Integration with **real-time ad monitoring APIs**.
 * Deep learning models (BERT, RoBERTa) for emotion detection.
@@ -123,11 +123,8 @@ This project emphasizes **AI ethics in marketing analytics** by:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
-**Harsh Arora**
-*Data Science Enthusiast | AI & Analytics Researcher*
-📧 [harsharora@example.com](mailto:harsharora@example.com)
-🌐 [LinkedIn Profile](https://www.linkedin.com/in/harsharora)
+**Developed By Harsh Arora**
 
 ---
